@@ -6,7 +6,7 @@
  * Time: 20:45
  */
 
-namespace gispatial\JustedCSVParser;
+namespace gispatial\iprice_CSVParserFormatter;
 
 
 interface StreamParserInterface
