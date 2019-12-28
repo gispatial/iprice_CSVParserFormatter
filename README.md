@@ -1,4 +1,4 @@
-# <img src="https://github.com/gispatial/iprice_CSVParserFormatter/blob/master/src/logo-iprice.png" width="15%"> ⚡ PHP7 / Laravel Multi-format CSV Parser by JustEd
+# <img src="https://github.com/gispatial/iprice_CSVParserFormatter/blob/master/src/logo-iprice.png" width="15%"> ⚡ Laravel CSV CSV Parser/ Formatter.
 
 > 2 approaches to consider:
 >
