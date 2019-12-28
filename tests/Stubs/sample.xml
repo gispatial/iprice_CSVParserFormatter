@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<hello_world>
+    <hello_world ISBN="10-000000-001">
+        <title>hello world</title>
+        <input>
+            <userOutPut rating="4">
+                HELLO WORLD
+            </userOutPut>
+        </output><comments>
+            <userOutPut2 rating="4">
+                hElLo wOrLd
+            </userOutPut2>
+        </input>
+      </hello_world>
+</hello_world>
