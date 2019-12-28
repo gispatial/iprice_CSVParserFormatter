@@ -11,7 +11,7 @@ All big files, callbacks will be executed in downloading manner and will be much
 
 ## Installation
 ```
-composer require gispatial/csvparse2justed
+composer require gispatial/iprice_CSVParserFormatter
 ```
 
 ## Recommended usage
