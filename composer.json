@@ -1,5 +1,5 @@
 {
-  "name": "gispatial/CSVParse2Justed",
+  "name": "gispatial/iprice_CSVParserFormatter",
   "description": "PHP Multiformat Streaming Parser by JustEd aka R. Aidy",
   "keywords": ["php7", "laravel", "stream", "parser", "pull", "xml", "csv", "json"],
   "license": "MIT",
@@ -26,13 +26,13 @@
 
   "autoload": {
     "psr-4": {
-      "gispatial\\JustedCSVParser\\": "src"
+      "gispatial\\iprice_CSVParserFormatter\\": "src"
     }
   },
 
   "autoload-dev": {
     "psr-4": {
-      "gispatial\\JustedCSVParser\\Test\\": "tests"
+      "gispatial\\iprice_CSVParserFormatter\\Test\\": "tests"
     }
   },
 
