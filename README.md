@@ -1,4 +1,4 @@
-# <img src="https://github.com/gispatial/iprice_CSVParserFormatter/blob/master/src/logo-iprice.png" width="15%"> ⚡ Laravel CSV CSV Parser/ Formatter.
+# <img src="https://github.com/gispatial/iprice_CSVParserFormatter/blob/master/src/ip.png" width="12%"> ⚡ Laravel CSV CSV Parser/ Formatter.
 
 > 2 approaches to consider:
 >
