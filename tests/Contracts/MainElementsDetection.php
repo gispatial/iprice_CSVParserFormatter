@@ -6,7 +6,7 @@
  * Time: 20:45
  */
 
-namespace gispatial\CSVParse2Hw\Test\Contracts;
+namespace gispatial\iprice_CSVParserFormatter\Test\Contracts;
 
 
 interface MainElementsDetection
