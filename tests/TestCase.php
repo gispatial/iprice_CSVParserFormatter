@@ -6,7 +6,7 @@
  * Time: 20:45
  */
 
-namespace gispatial\CSVParse2justed\Test;
+namespace gispatial\iprice_CSVParserFormatter\Test;
 
 use PHPUnit\Framework\TestCase as BaseTest;
 use gispatial\CSVParse2Justed\Test\Contracts\ElementToCollectionTransformation;
