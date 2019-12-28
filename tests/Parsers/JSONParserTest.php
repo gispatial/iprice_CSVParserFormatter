@@ -6,7 +6,7 @@
  * Time: 20:45
  */
 
-namespace gispatial\CSVParse2Hw\Test\Parsers;
+namespace gispatial\iprice_CSVParserFormatter\Test\Parsers;
 
 use gispatial\CSVParse2Hw\Test\TestCase;
 use gispatial\CSVParse2Hw\StreamParser;
