@@ -104,3 +104,5 @@ string(39) "hElLo wOrLd"
 ```
 
 ## Assessment done by JustEd @ R. Aidy
+
+There's a similar project generated but its on Fpdf format - https://github.com/gispatial/justedFPDF
