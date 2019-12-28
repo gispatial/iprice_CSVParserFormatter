@@ -6,7 +6,7 @@
  * Time: 20:45
  */
 
-namespace gispatial\CSVParse2Hw\Traits;
+namespace gispatial\iprice_CSVParserFormatter\Traits;
 
 
 trait Facade
