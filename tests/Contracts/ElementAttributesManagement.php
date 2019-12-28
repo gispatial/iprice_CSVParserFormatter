@@ -6,7 +6,7 @@
  * Time: 22:35
  */
 
-namespace gispatial\CSVParse2Hw\Test\Contracts;
+namespace gispatial\iprice_CSVParserFormatter\Test\Contracts;
 
 
 interface ElementAttributesManagement
