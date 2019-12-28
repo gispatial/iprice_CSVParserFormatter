@@ -6,7 +6,7 @@
  * Time: 20:45
  */
 
-namespace gispatial\CSVParse2Hw\Test\Parsers;
+namespace gispatial\iprice_CSVParserFormatter\Test\Parsers;
 
 use gispatial\CSVParse2Justed\StreamParser;
 use gispatial\CSVParse2Justed\Test\Contracts\ElementAttributesManagement;
@@ -40,12 +40,12 @@ class XMLParserTest extends TestCase implements ElementAttributesManagement, Ele
 	public function test_element_values_are_there_after_transform()
 	{
 		$titles = [
-			"The Iliad and The Odyssey",
-			"Anthology of World Literature",
-			"Computer Dictionary",
-			"Cooking on a Budget",
-			"Great Works of Art",
-			"The Greatest Element"
+			"hello world",
+			"HELLO WORLD",
+			"hElLo wOrLd",
+			"HelloWorld",
+			"helloWorld",
+			"CSV created!"
 		];
 
 		StreamParser::xml($this->stub)->each(function($hello_world) use ($titles){
