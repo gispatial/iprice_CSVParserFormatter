@@ -6,7 +6,7 @@
  * Time: 20:45
  */
 
-namespace gispatial\CSVParse2Hw\Services;
+namespace gispatial\iprice_CSVParserFormatter\Services;
 
 
 use JsonCollectionParser\Parser;
