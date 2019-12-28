@@ -6,7 +6,7 @@
  * Time: 20:45
  */
 
-namespace gispatial\CSVParse2Hw\Exceptions;
+namespace gispatial\iprice_CSVParserFormatter\Exceptions;
 
 
 class IncompleteParseException extends \Exception
